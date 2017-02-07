@@ -38,7 +38,7 @@
 			<username>manoj</username>
 			<password>123</password>
 			<update>true</update>
-			<path>D:\INST\my-app\target</path>
+			<path>C:\Users\Manoz\manoz\manoz555\my-app\target</path>
 		</configuration>
 	</plugin>
 	 <plugin>
@@ -49,13 +49,13 @@
 	</plugins>
 	</pluginManagement>
   </build>
-  <distributionManagement>
+  <!--distributionManagement>
     <repository>
       <id>central</id>
       <name>apache-snapshots</name>
       <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
     </repository>
-  </distributionManagement>
+  </distributionManagement-->
   <properties>
     <my.filter.value>hello</my.filter.value>
   </properties>
